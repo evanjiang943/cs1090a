@@ -24,7 +24,7 @@ Successfully updated `m4-coding.ipynb` to complete the assignment requirements w
    - Class imbalance handling (threshold tuning, undersampling)
 9.  **Final Model Pipeline: Hierarchical Logistic Regression** (NEW)
    - Empirical Bayes estimation for circuit effects
-   - Test AUC-ROC: ~0.71
+   - Test AUC-ROC: 0.683
    - 15 features (68% reduction)
    - Better interpretability and generalization
 10.  **Model Comparison and Final Results** (NEW)
@@ -58,7 +58,7 @@ Successfully updated `m4-coding.ipynb` to complete the assignment requirements w
 | Model | Test AUC | Features | Interpretability |
 |-------|----------|----------|------------------|
 | Baseline (One-Hot Circuits) | 0.713 | 48 | ⭐⭐ |
-| Hierarchical (Circuit Baseline) | ~0.71 | 15 | ⭐⭐⭐⭐⭐ |
+| Hierarchical (Circuit Baseline) | 0.683 | 15 | ⭐⭐⭐⭐⭐ |
 
 ## Assignment Requirements Met
 
